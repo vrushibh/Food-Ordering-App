@@ -2,6 +2,7 @@
 A Food Ordering App built with Android Studio using Java and SQLite, featuring user registration, menu browsing, order details (cart) with a good user interface. It includes the ability to place orders, browse menus, and checkout.
 
 📝 Project Information
+
 Name: Bhalodiya Vrushibh
 Name: Kalariya Dhruvi
 Project Name: THEFOOIESZONE
