@@ -25,8 +25,6 @@ Year: 2022-2023
 
 🚀 Installation
 Clone the repository:
-bash
-Copy code
 git clone https://github.com/yourusername/food-ordering-app.git
 Open the project in Android Studio.
 Build and run the app on an emulator or a physical device.
