@@ -4,8 +4,11 @@ A Food Ordering App built with Android Studio using Java and SQLite, featuring u
 📝 Project Information
 
 Name: Bhalodiya Vrushibh
+
 Name: Kalariya Dhruvi
+
 Project Name: THEFOOIESZONE
+
 Year: 2022-2023
 
 ✨ Features
